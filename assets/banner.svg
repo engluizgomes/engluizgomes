@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <radialGradient id="g" cx="68%" cy="30%" r="90%"><stop offset="0" stop-color="#FF7A3D"/><stop offset=".55" stop-color="#E8541D"/><stop offset="1" stop-color="#B8380F"/></radialGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M60 0H0V60" fill="none" stroke="#fff" stroke-opacity=".08"/></pattern>
+  </defs>
+  <rect width="1200" height="300" fill="url(#g)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <text x="1170" y="250" text-anchor="end" font-family="Arial Black,Helvetica,Arial,sans-serif" font-weight="900" font-size="190" fill="#fff" fill-opacity=".09" letter-spacing="-6">GOMES</text>
+  <g stroke="#fff" stroke-opacity=".7"><path d="M40 40h16M48 32v16"/><path d="M1144 40h16M1152 32v16"/><path d="M40 260h16M48 252v16"/><path d="M1144 260h16M1152 252v16"/></g>
+  <text x="60" y="118" font-family="Helvetica,Arial,sans-serif" font-weight="700" font-size="20" fill="#fff" fill-opacity=".9">PROJECT · PRODUCT · OPERATIONS MANAGER</text>
+  <text x="56" y="210" font-family="Arial Black,Helvetica,Arial,sans-serif" font-weight="900" font-size="104" fill="#fff" letter-spacing="-4">LUIZ GOMES</text>
+  <text x="60" y="250" font-family="Helvetica,Arial,sans-serif" font-size="18" fill="#fff" fill-opacity=".85">9+ years · Brazil · Argentina · Australia · Spain · Co-founder &amp; CTO, Fusion Clinic</text>
+</svg>
